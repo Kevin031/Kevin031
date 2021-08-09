@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 最近在做的事情
+  - 每周造一个轮子
+  - 博客图床迁移
+  - 研究刽子手谜题
