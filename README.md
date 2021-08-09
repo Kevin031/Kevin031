@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 关于我
+  - 96年金牛座
+  - 前端工程师
+  - 坐标广州
+
 - 最近在做的事情
   - 每周造一个轮子 [传送门](https://github.com/Kevin031/my-awesome-wheels)
   - 博客图床迁移
