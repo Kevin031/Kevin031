@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   - 坐标广州
 
 - 最近在做的事情
-  - 每周造一个轮子 [传送门](https://github.com/Kevin031/my-awesome-wheels)
+  - 造点小轮子 [传送门](https://github.com/Kevin031/my-awesome-wheels)
   - 博客图床迁移
-  - 研究刽子手谜题
+  - 写一个轻量的在线代码编辑器
