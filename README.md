@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 - 关于我
   - 96年金牛座
-  - 前端工程师
+  - Web前端工程师
   - 坐标广州
 
 - 最近在做的事情
   - 造点小轮子 [传送门](https://github.com/Kevin031/my-awesome-wheels)
-  - 博客图床迁移
-  - 写一个轻量的在线代码编辑器
+  - 博客重构和知识体系梳理
+  - 低代码引擎
