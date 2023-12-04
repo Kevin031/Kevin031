@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 最近在做的事情
   - 造点小轮子 [传送门](https://github.com/Kevin031/my-awesome-wheels)
   - 博客重构和知识体系梳理 [传送门](http://kevinlau.cn)
-  - 手撕vue源码[传送门](https://github.com/Kevin031/mini-vue)
+  - 手撕vue源码 [传送门](https://github.com/Kevin031/mini-vue)
   - 低代码引擎
