@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   - 坐标广州
 
 - 最近在做的事情
+  - 复盘专题：[低代码平台的架构和思考](http://kevinlau.cn/posts/%E4%B8%93%E9%A2%98:%20%E4%BD%8E%E4%BB%A3%E7%A0%81%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%9E%B6%E6%9E%84%E5%92%8C%E6%80%9D%E8%80%83.html)
   - 造点小轮子 [传送门](https://github.com/Kevin031/my-awesome-wheels)
   - 博客重构和知识体系梳理 [传送门](http://kevinlau.cn)
   - 手撕vue源码 [传送门](https://github.com/Kevin031/mini-vue)
